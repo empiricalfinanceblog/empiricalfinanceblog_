@@ -1,6 +1,1 @@
-<html>
-<body>
-<h1>Welcome to the Empirical Finance Blog</h1>
-[Here is my LinkedIn profile](https://www.linkedin.com/)
-</body>
-</html>
+Welcome to the Empirical Finance Blog. [Here is my LinkedIn profile of the author.](https://www.linkedin.com/)
