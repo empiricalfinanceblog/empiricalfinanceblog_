@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Awesome Blog Post
-excerpt: "Why you should read my website"
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
-category: blog
+title:  "Welcome to Jekyll!"
 ---
 
-Text for your post goes here.
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it
